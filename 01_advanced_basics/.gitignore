@@ -1,0 +1,7 @@
+log
+*.gz
+__pycache__
+report-*.html
+report.html
+reports
+
